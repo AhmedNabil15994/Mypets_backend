@@ -1,9 +1,11 @@
 
 
 
-## About Alsinaeia
+## About Mypets <br>
 
-Alsinaeia Dashboard and  Api
+Mypets is platform for all pets needs.
+
+MyPets Dashboard and  Api
 
 
 
